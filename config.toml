@@ -1,0 +1,25 @@
+[app]
+title = "Gothic 2 Online Launcher"
+width = 1000
+height = 600
+
+[background]
+image = "static/images/remake.jpg"
+
+[game]
+executable = "C:\\Users\\Icarus\\Desktop\\RGCLauncherPy\\test_files\\System\\Gothic2.exe"
+default_nickname = "Player"
+server_address = "127.0.0.1:7777"
+test_source_folder = "C:\\Users\\Icarus\\Desktop\\RGCLauncherPy\\test_files"
+test_download_folder = "C:\\Users\\Icarus\\Desktop\\RGCLauncherPy\\test_downloaded"
+files_manifest = "C:\\Users\\Icarus\\Desktop\\RGCLauncherPy\\directory_report.json"
+base_url = ""
+
+[colors]
+primary = "#4a6fa5"
+secondary = "#252535"
+text = "#ffffff"
+
+[fonts]
+main = "Segoe UI"
+size = 14
