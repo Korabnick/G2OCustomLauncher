@@ -2,7 +2,7 @@
 
   
 
-![Launcher Preview](static/preview.png) <!-- Добавьте скриншот в папку static -->
+![Launcher Preview](static/images/preview.png) <!-- Добавьте скриншот в папку static -->
 
   
 
